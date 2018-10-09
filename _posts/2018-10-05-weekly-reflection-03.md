@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bashir Hill, weekly reflection 3
-date 2018-10-05 
+date: 2018-10-05 
 ---
 
 
