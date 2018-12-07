@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bashir Hill, Weekly reflection 7
+title: Bashir Hill, Weekly reflection 8
 date: 2018-11-09 
 ---
 
