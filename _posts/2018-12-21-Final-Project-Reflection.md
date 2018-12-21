@@ -18,7 +18,7 @@ date: 2018-12-21
 -   Insert an image that your program currently produces. _then delete this instruction_
 
 * * *
-![Flag](/images/.png)
+![Flag](/images/final-flag.png)
 * * *
 
 ## Describe your process.
