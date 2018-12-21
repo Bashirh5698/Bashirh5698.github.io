@@ -4,13 +4,14 @@ title: "Flag Project - Final Submission"
 date: 2018-12-21
 ---
 
-## Flag of _insert your country_ by _insert your name_
+## Flag of _Pakistan_ by _Bashir Hill_
 
 ## Describe your program
 
--   What country did you design for? _then delete this instruction_
--   What grade do you expect? _then delete this instruction_
-
+-   What country did you design for? 
+Pakistan 
+-   What grade do you expect? 
+At least a practitioner because i made th eflag correctly but i did not get all the dimensions correct
 <!--- Delete this comment and add your writing -->
 
 ## Current output
@@ -37,7 +38,24 @@ date: 2018-12-21
 * * *
 
 ```
-Insert 10-15 line code section here _then delete this instruction_
+include image
+
+height =  280
+circle-radius = height * 3/10
+
+#simpleparts
+
+wr = rectangle(75, height,  "solid", "white")
+
+gr = rectangle(300, 200, "solid", "dark-green" )
+
+wc = circle(60, "solid", "white")
+
+gc = circle(55, "solid", "dark-green")
+
+ws = star(25,"solid", "white")
+
+rws = rotate(26, ws)
 ```
 
 * * *
@@ -45,11 +63,37 @@ Insert 10-15 line code section here _then delete this instruction_
 -   Explain the code you posted by telling us about each argument.
 -   Then tell us how your code section fits into the whole.
  
-<!--- Delete this comment and add your writing -->
 
 
+This part of the code is important because 
 ## Program code
 
 ```
-Insert entire program here _then delete this instruction_
+include image
+
+height =  280
+circle-radius = height * 3/10
+
+#simpleparts
+
+wr = rectangle(75, height,  "solid", "white")
+
+gr = rectangle(300, 200, "solid", "dark-green" )
+
+wc = circle(60, "solid", "white")
+
+gc = circle(55, "solid", "dark-green")
+
+ws = star(25,"solid", "white")
+
+rws = rotate(26, ws)
+#combinationofsimpleparts
+
+wr-gr = place-image(wr, 35, 75, gr)
+
+ffc = place-image(wc, 185,100,wr-gr)
+
+smg = place-image(gc,200,85,ffc)
+
+pakistan-flag = place-image(rws,210,75,smg) 
 ```
